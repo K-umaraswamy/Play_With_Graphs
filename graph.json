@@ -1,0 +1,50 @@
+{
+    "nodes": [
+        {
+            "label": "A",
+            "color": "#000000"
+        },
+        {
+            "label": "B",
+            "color": "#000000"
+        },
+        {
+            "label": "C",
+            "color": "#000000"
+        },
+        {
+            "label": "D",
+            "color": "#000000"
+        },
+        {
+            "label": "E",
+            "color": "#000000"
+        },
+        {
+            "label": "F",
+            "color": "#000000"
+        }
+    ],
+    "edges": [
+        {
+            "source": "A",
+            "target": "B"
+        },
+        {
+            "source": "C",
+            "target": "D"
+        },
+        {
+            "source": "B",
+            "target": "E"
+        },
+        {
+            "source": "D",
+            "target": "E"
+        },
+        {
+            "source": "E",
+            "target": "F"
+        }
+    ]
+}
